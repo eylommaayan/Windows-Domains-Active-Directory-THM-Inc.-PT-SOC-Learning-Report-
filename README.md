@@ -467,10 +467,6 @@ Challenge-Response:
     → מאפשרות תקיפה ושדרוג הרשאות (Privilege Escalation).
 
 ---
-
-אם תרצה, אני יכול גם:
-
-1. לכתוב לך את זה בפורמט **README.md מוכן** כולל כותרות, טבלת תוכן ותגיות.
-2. להוסיף “Key Takeaways” ו-“Blue Team Detection Notes” כדי שזה ייראה עוד יותר מקצועי ב-GitHub.
+.
 
 .
